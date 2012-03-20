@@ -1,0 +1,10 @@
+alias mate='mate -rd'
+alias ls='ls -aFhl'
+export CLICOLOR=1
+
+export LSCOLORS="ExFxCxDxBxegedabagacad";
+export LSCOLORS
+
+if [[ -s /Users/jt/.rvm/scripts/rvm ]] ; then source /Users/jt/.rvm/scripts/rvm ; fi
+
+test -r /sw/bin/init.sh && . /sw/bin/init.sh

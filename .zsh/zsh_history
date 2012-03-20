@@ -1,0 +1,503 @@
+rails s
+rails c
+rails s
+autotest
+autotest
+rails s
+autotest
+cd rails_projects/sample_app
+rails s
+ls
+rm -Rf s
+ls
+rails server
+ls
+rm -Rf server
+ruby -v
+rvm 1.9.2
+rails s
+autotest
+rails s
+ssh sysadmin@10.0.1.25
+s
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh sysadmin@10.0.1.25
+ssh jtmitchum@jtmitchum.com
+ssh jtmitchum@jtmitchum.com
+ssh jtmitchum@jtmitchum.com
+ssh jtmitchum@jtmitchum.com
+ssh jtmitchum@jtmitchum.com
+rails g integration_test users
+autotest
+gem list
+rails g controller Sessions new
+rm -rf spec/views
+rm -rf spec/helpers
+autotest
+cd ~/Library/Application\ Support/TextMate/Bundles
+git clone git://github.com/rspec/rspec-tmbundle.git RSpec.tmbundle
+gem install heroku
+autotest
+rails s
+rails s
+autotest
+autotest
+rails g integration_test friendly_forwarding
+bundle install
+rake db:populate
+rails s
+rake db:populate
+rails s
+rails s
+rake db:populate
+rails s
+bundle install
+rails s
+rails g migration add_admin_to_users admin:boolean
+rake db:migrate
+rake db:test:prepare
+rake db:populate
+rails c
+rake db:populate
+autotest
+rails c
+rails s
+rails g model Micropost content:string user_id:integer
+rake db:migrate
+rake db:test:prepare
+autotest
+cd ~/Library/Application\ Support/TextMate/Bundles
+git clone git://github.com/drnic/ruby-on-rails-tmbundle.git "Ruby on Rails.tmbundle"
+osascript -e 'tell app "TextMate" to reload bundles'
+which rvm-auto-ruby
+man pbpaste te
+which rvm-auto-ruby| pbcopy
+which rvm-auto-ruby| pbcopy
+rake db:populate
+ls
+pwd
+cd ~/rails_projects/sample_app
+rake db:populate
+rake db:populate
+rails s
+rake routes
+rails g controller Microposts create destroy
+defaults write com.macromates.textmate OakShellVariables -array-add "{ enabled = 1; variable = PATH; value = '$PATH'; }" && open "/Applications/TextMate.app"
+rails s
+rm spec/helpers/microposts_helper_spec.rb
+rails S
+rails s
+rm -Rf spec/views/microposts
+cd spec/views
+ls
+cd ..
+cd ..
+ls
+rails g integration_test microposts
+rails s
+cd ~/Sites
+mate .
+ssh sysadmin@10.0.1.25
+ssh sysadmin@rightby.us
+ssh sysadmin@rightby.us
+ssh sysadmin@rightby.us
+ssh sysadmin@rightby.us
+ls
+pwd
+cd ..
+rails -v
+gem list
+gem update --system
+gem update
+pwd
+rails public_app
+rails new public_app
+cd public_app
+mate .
+git init
+git add .
+git commit -m "initial commit\
+"
+git remote add origin git@github.com:jtmitchum/public_app.git
+git push -u origin master
+git -v
+git --version
+git clone git://git.kernel.org/pub/scm/git/git.git
+ls
+cd git
+ls
+git --version
+ls
+mate INSTALL
+cd ..
+ls
+rm -Rf git
+git --version
+ls
+pwd
+git push -u origin master
+git --version
+ls
+git push -u origin master
+git checkout -b modify_README
+git branch
+git mv README README.markdown
+git commit -a -m "Changed README"
+git co master
+git checkout master
+git merge modify-README
+git branch
+git merge modify_README
+git branch -d modify_README
+git push
+ruby -v
+rvm use 1.9.2
+rvm --default 1.9.2
+ruby -v
+cd rails_projects/public_app
+mate .
+bundle install
+git commit -m "GemFile updated"
+git add .gemfile
+ls
+git add Gemfile
+git commit -m "Adjusted Gemfile"
+bund install
+bundle install
+rails g rspec:install
+git -a -m "GemFile updated, Rspec files added"
+git commit -a -m "GemFile updated, Rspec files added"
+git add spec/spec_helper.rb
+git commit -m "added spec_helper.rb"
+git checkout -b static-setup
+rails g controller Pages home about contact
+git add .
+git commit -m "Added Pages Controller"
+mate .autotest
+git rm -r spec/views
+git rm -r spec/helpers
+ruby -v
+cd rails_projects/public_app
+autotest
+cp -r ~/Downloads/joshuaclayton-blueprint-css-5d113e9/blueprint public/stylesheets
+git commit -a -m "Added style sheets, title helper"
+git branch
+git status
+git checkout master
+git merge static-setup
+git push
+git commit -a -m "fixed CSS tag"
+git push origin
+mate ~/.zshrc
+bindkey -e
+$EDITOR
+echo $EDITOR
+ls
+ls
+ls
+home
+ls
+ls -D
+ls -G
+ssh sysadmin@rightby.us
+git commit -a -m "set some routes"
+git branch
+git push origin
+ping 10.0.1.7
+ssh 10.0.1.7
+ssh sysadmin@10.0.1.7
+bindkey -e
+git clone git://github.com/whomwah/qlstephen.git
+ls
+cd qlstephen
+ls
+qlmanage -p "README" >& /dev/null
+mate ~/.zshrc
+cd qlstephen
+ql README
+ls
+ql CHANGELOG
+cd ~/Library/
+ls
+cd /Library/Plug-ins/DiskImages
+ls
+mv VirtualPCDiskImagePlugin.bundle VirtualPCDiskImagePlugin.bak
+ls
+/Library/Plug-ins
+ls
+cd DiskImages
+ls
+rm VirtualPCDiskImagePlugin.bak
+rm -R VirtualPCDiskImagePlugin.bak
+ls
+rm -Rf VirtualPCDiskImagePlugin.bak
+ls
+ssh root@AppleTV.local
+ping 10.0.1.8
+ssh sysadmin@rightby.us
+/Applications/Alfred.app/Contents/Resources/reindex.sh ; exit;
+ruby -v
+cd rails_projects
+ls
+cd public_app
+git branch
+git rm public/index.html
+git commit -am "Removed default Rails Page"
+ping google.com
+ping google.com
+/Applications/Alfred.app/Contents/Resources/reindex.sh ; exit;
+/Applications/Alfred.app/Contents/Resources/reindex.sh ; exit;
+cd rails_projects
+ls
+cd public_app
+cd ..
+ping googlecom
+ping google.com
+sudo airport off
+ping google.com
+ping google.com
+ping google.com
+curl -o /tmp/weather.html http://weather.yahoo.com/united-states/maryland/baltimore-2358820/
+ls
+cd tmp
+ls
+cd ..
+ls
+cd /tmp/
+ls
+open weather.html
+ssh sysadmin@rightby.us
+nmap
+echo \144
+echo "\144"
+echo "/144"
+echo -e \144
+echo -e \100
+echo £
+echo -e \132
+echo -e 122
+echo -e \\2323
+echo '\123'
+echo $'\123'
+echo $'\144'
+echo $'\219'
+echo $'\218'
+echo $'\233'
+echo $'\000'
+echo $'\001'
+echo $'\0231'
+echo $'\044'
+ssh sysadmin@rightby.us
+bindkey -e
+ls
+ssh sysadmin@rightby.us
+ls
+lp
+ls
+cd Downloads
+ls
+ls
+mate ~/.zshrc
+ls
+cd Documents
+ls
+ls -G
+mate ~/.zshrc
+ls
+cd Music
+ls
+cd ~/rails_projects/sample_app
+ls
+cd public
+ls
+vim 404.html
+man ls
+ls -@
+ls -1
+ls
+ls -q
+ls
+ls -q
+ls -q
+ls -q
+ls
+ls -F
+ls -r
+ssh sysadmin@rightby.us
+ssh sysadmin@rightby.us
+ssh sysadmin@rightby.us
+ssh sysadmin@rightby.us
+ssh sysadmin@rightby.us
+ssh sysadmin@rightby.us
+ssh sysadmin@rightby.us
+ssh sysadmin@rightby.us
+ssh sysadmin@rightby.us
+ssh sysadmin@rightby.us
+ssh sysadmin@rightby.us
+s
+ssh sysadmin@rightby.us
+ruby -v
+irb
+irb
+cd ~
+ls
+cd rails_projects
+cd sample_app
+cd public
+ls
+vim 404.html
+ls
+script
+exit
+ls
+rm typescript
+cd ..
+cd ~
+sudo periodic
+sudo periodic daily
+sudo periodic weekly
+pwd
+df -h
+which zsh
+echo $SHELL
+mate .zshrc
+echo $HOME
+cd /usr/local/rvm/wrappers
+which rvm
+locate rvm
+gem list
+ruby -v
+gem install chronic
+irb
+free -h
+free
+mem
+free -m
+bindkey -e
+bindkey -e
+ls
+zsh && bindkey -e
+ls
+zsh && bindkey -e
+bindkey -e
+who
+zsh && bindkey -e
+zsh && bindkey -e
+chmod +x ~/Applications/Altitude.app
+chmod +x ~/Downloads/Minecraft/Minecraft.app/Contents/MacOS/JavaApplicationStub
+chmod +x /Applications/Minecraft.app/Contents/MacOS/JavaApplicationStub
+cd ~/Library
+ls
+ls /Library
+cd /Applications/Minecraft.app
+ls
+ls -al
+cd Contents
+ls
+cd MacOs
+ls
+cd ..
+cd ..
+locate .minecraft
+find .minecraft
+cd ~/Downloads/Minecraft
+ls
+cd Minecraft.app
+ls
+cd ~/Library/Application\ Support/minecraft/bin/
+ls
+ls -al
+sudo chmod +x *.jar
+chmod +x *.jar
+ls -al
+zsh && bindkey -e
+cd /Volumes/BOOTCAMP/Users/JT/AppData
+ls
+cd Roaming
+ls
+cp -R .minecraft
+cp -R .minecraft ~/Library/Application\ Support/minecraft/saves
+ls
+cp -R .minecraft/ ~/Desktop/.minecraft
+cp -Rp .minecraft ~/Desktop/.minecraft
+zsh && bindkey -e
+cp /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub /Applications/Minecraft.app/Contents/MacOS/JavaApplicationStub
+ssh sysadmin@rightby.us
+ping rightby.us:22
+ping rightby.us
+ping rightby.us:80
+ping rightby.us -p 80
+ping http:\\rightby.us
+ping http://rightby.us
+ping google.com
+ping rightby.us
+zsh && bindkey -e
+'/Applications/Sage-4.6.2-OSX-64bit-10.6.app/Contents/Resources/sage/'/sage --notebook
+zsh && bindkey -e
+zsh && bindkey -e
+ssh sysadmin@rightby.us\
+
+cat /etc/resolv.conf
+zsh && bindkey -e
+ping google.com\
+
+zsh && bindkey -e
+zsh && bindkey -e
+bindkey -e
+ssh sysadmin@10.0.1.25
+\!
+ls
+ln -s /Volumes/Jane/Steam /Users/jt/Library/Application\ Support/Steam
+bindkey -e
+ssh sysadmin@10.0.1.25
+nslookup
+nslookup 127.0.0.1 10.0.1.26
+bindkey -e
+cd Documents/Dropbox/
+ls
+cd .dropbox.cache
+ls
+cd 2011-07-17
+ls
+cp Walking*.* ../../../../Desktop
